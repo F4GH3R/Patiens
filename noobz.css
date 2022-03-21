@@ -1,0 +1,97 @@
+img {
+    width: 110px;
+    margin-bottom: -130px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  img:hover {margin-bottom: -100px;}
+  img:hover {
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 0 0px 30px 5px rgba(251, 251, 251, 0.19);
+  }
+  body {
+    background-image: url("images/matrix.gif");
+    background-color: #cccccc;
+    background-size: cover;
+    }
+  div.card {
+    float: left;
+  }
+
+  div.column
+  {
+
+    width: 1200px; 
+    height: 60px;
+    width: 90px;
+    float: left;
+    margin-right: 55px;
+  }
+  div#column7
+  {
+    margin-right: 0px;
+  }
+  div.row
+  {
+    height: 110px;
+    width: 90px;
+    margin-bottom: -80px;
+
+    margin-right: 10px;
+    background-color: pink;
+    width: 60px;
+    height: 40px;
+    float: left;
+    position: absolute;
+  }
+  div#plan
+  {
+    margin-left: 150px;
+    border: solid black 4px;
+    height: 750px;
+    width: 1000px;
+    padding: 50px;
+    padding-top: 100px;
+    position: absolute;
+    margin-left: 400px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+  }
+
+  .box
+  {
+    padding-top: 100px;
+    margin-left: 150px;
+    border: solid black 4px;
+    height: 750px;
+    width: 100px;
+    padding: 50px;
+    position: absolute;
+    background-color: #00b300;
+    opacity: 0.2;
+    background-image: url("images/matrixx.gif");
+    background-color: #cccccc;
+    background-size: cover;
+
+  }
+
+  #deckboxen
+  {
+    margin-left: 1550px;
+  }
+
+  .boxen
+  {
+    padding-top: 100px;
+    margin-left: 150px;
+    border: solid black 4px;
+    height: 750px;
+    width: 100px;
+    padding: 50px;
+    position: absolute;
+    background-color: black;
+
+  }
