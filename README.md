@@ -1,4 +1,10 @@
 # Patiens
-First card game
+First card game in javascript, HTML and CSS
 
-This card game will be very funny i think!
+Not fully functioning,
+
+TO-DO-LIST:
+drag multiple cards at once,
+easy/hard mode,
+flipped cards were you can only see the backside, 
+a end were you win the game
