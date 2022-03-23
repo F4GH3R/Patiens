@@ -1,4 +1,4 @@
-//W3 schools drag and drop functions
+//drag and drop functions
 function allowDrop(ev) {
     ev.preventDefault();
   }
